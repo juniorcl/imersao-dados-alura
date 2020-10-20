@@ -20,4 +20,6 @@ A [Imersão Dados](https://www.alura.com.br/imersao-dados) (*Immersion Data*) wa
 
 * ### Day 5 - Storytelling in Data Science
 
+## License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
