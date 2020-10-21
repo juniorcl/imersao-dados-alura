@@ -14,11 +14,13 @@ A [Imersão Dados](https://www.alura.com.br/imersao-dados) (*Immersion Data*) wa
 
     In this class, there was an advance with data analysis and data visualization was discussed, from good practices to the use of a new tool to generate more stylized graphics (seaborn).
 
-* ### Day 3 - Understanding What is Machine Learning
+* ### Day 3 - Distributions and COrrelations
 
-* ### Day 4 - Optimizing Hyperparameters
+    In this class it was covered heatmap and histograms graphics to undertand the data. Heatmap was used to watch the correlation among the scores. Otherwise, with histgrams and boxplot it was possible to understanding the distributions and outlies in the scores. 
 
-* ### Day 5 - Storytelling in Data Science
+* ### Day 4 - Machine Learning
+
+* ### Day 5 - Pipeline and Model Validation
 
 ## License
 
