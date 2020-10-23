@@ -3,7 +3,7 @@
 Notebooks used during the event about data science created by [Alura](https://www.alura.com.br/).
 
 <div align="center">
-    <img src="icons/logo-imersao.svg" alt="logo imersao" height="10%" width="20%" height="20%">
+    <img src="icons/logo-imersao.svg" alt="logo imersao" width="20%" height="20%">
 </div>
 
 ## Event
